@@ -6,6 +6,8 @@ It's a random string with a pattern in it. Find double letters that are spaced b
 
 ## Draw State Diagram
 ![StateDiagram](lex_coding_challenge.png)
+
+
 Starting at state 1, you read in a letter at a time.
 
 For each state, you have two options. Either you read in a letter, or you read in a number.
